@@ -1,0 +1,9 @@
+prós:
+    "aprendemo" Python;
+    o teclado é melhor do que o do Mac;
+    "aprendemo" o framework de teste unitário (unittest);
+contras:
+    Colombo (eu) fala de mais;
+    pé do cara (também eu) tá molhado;
+    o problema (fizzbuzz) foi muito fácil;
+    Colombo não tava preparado (sorry);
